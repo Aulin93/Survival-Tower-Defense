@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b94bc1e1ad26e348b2285d0e7666c48, type: 3}
+  m_Name: Spawn Wave State
+  m_EditorClassIdentifier: 
+  enemiesToSpawn: 20
+  numberOfSpawnPointsToUse: 1
+  waveMultiplier: 2
+  timeBetweenSpawns: 1
